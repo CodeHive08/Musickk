@@ -2,6 +2,15 @@
 
 A beautiful, feature-rich music player built with HTML, CSS, and JavaScript. This player supports multiple songs, playlist management, shuffle, repeat modes, volume control, and **local file uploads**.
 
+🌐 **Live Demo:** [https://musickk.netlify.app/](https://musickk.netlify.app/)
+---
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/baab324a-f217-43a1-a2b1-6b2c33c1658d)
+
+---
+
 ## ✨ Features
 
 - **Multiple Songs Support**: Play through a playlist of songs
