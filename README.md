@@ -131,3 +131,9 @@ The music player starts with an empty playlist. You can add your own songs using
 - **Cross-Device**: Songs are stored locally on each device/browser, not synced across devices
 
 Enjoy your music! 🎶 
+
+## 👨‍💻 Author
+Sandeep Singh Mehta
+
+Contributions and suggestions are welcome! Feel free to open issues or submit pull requests.
+
